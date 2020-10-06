@@ -6,4 +6,4 @@ export default {
         component: Content
 };
 
-export const BaiscContent = () => <Content />
+export const BasicContent = () => <Content />
