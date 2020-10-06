@@ -1,0 +1,11 @@
+$fs:18px;
+// creating global font size; consistent variable
+
+@mixin flexIt {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+//mixin = reduce repetition
+
+@import './index.scss';
